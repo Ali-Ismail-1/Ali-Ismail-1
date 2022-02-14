@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali, I'm a software engineer at Memory4Less. 
+- 👋 Hi, I’m Ali, I'm a software engineer. 
 
 
 ## About Me
