@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: building a blog so that I can help other developers grow their knowledgebase.
 - 🌱 I’m currently learning: React.
 - 🤔 What I want to learn next: Web3 Development.
-- 📫 How to reach me: ali@ali-isamil.com
+- 📫 How to reach me: ali@ali-ismail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I play drums and speak 3 foreign langauges
 
