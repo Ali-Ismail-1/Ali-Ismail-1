@@ -1,38 +1,37 @@
 # 👋 Hi, I’m Ali!  
 
-I’m a **Senior Software Engineer** (10+ yrs) focused on **AI, automation, and system design**.  
-I bridge **backend engineering** (C#, Python, cloud infra) with **applied AI** (RAG, LangChain, LangGraph, LLMOps) to build systems that are **practical, safe, and scalable**.  
+I’m a **Senior Software Engineer** (10+ yrs) working at the intersection of **backend systems** (C#, Python, cloud infra) and **applied AI** (RAG, LangChain, LangGraph, LLMOps).  
+I build systems that are **practical, safe, and scalable**.  
 
 ---
 
 ## 🚀 Current Focus
-- 🤖 Building **RAG + LangGraph chatbots** with compliance guardrails  
-- 🛠 Prototyping **automation & orchestration tools** for SMBs and enterprises  
-- 🌟 Open-source contributions to [LangChain](https://github.com/langchain-ai/langchain) and AI tooling  
-- ✍️ Writing on **staying technically relevant** & **engineer → leader growth** at my [blog](https://aliismail.beehiiv.com/) 
+- 🤖 **Compliance-safe RAG chatbots** (LangGraph + guardrails)  
+- ⚡ **Automation tools for SMBs** (Zapier, Make, Airtable)  
+- 🌟 Contributing to [LangChain](https://github.com/langchain-ai/langchain)  
+- ✍️ Writing on **tech relevance & leadership** → [blog](https://aliismail.beehiiv.com/)  
 
 ---
 
 ## 🧰 Toolbox
-- **Languages**: Python · C# · TypeScript (Next.js, React)  
-- **AI/ML**: LangChain · LangGraph · Hugging Face · RAG · LLMOps  
-- **Infra**: AWS · Supabase · Docker · CI/CD · API Security  
-- **Strengths**: API design · orchestration · automation · compliance-safe AI  
+Python · C# · TypeScript (Next.js, React)  
+LangChain · LangGraph · Hugging Face · RAG · LLMOps  
+AWS · Supabase · Docker · CI/CD · API Security  
 
 ---
 
 ## 📌 Featured Work
-- 🛡️ **Compliance-Safe RAG Chatbot** → [repo](#) (FastAPI + LangChain + LangGraph + Ollama)  
-- ⚡ **Automation for SMBs** → CRM + workflow automations with Zapier/Make/Airtable  
-- 🔍 **API Security Research** → demos on overexposure & MCP/agent risks  
+- 🛡️ **Compliance-Safe RAG Chatbot** → [repo](https://github.com/Ali-Ismail-1/RAG-with-guardrails/)  
+- ⚡ **SMB Automations** → CRM + workflows with Zapier/Make  
+- 🔍 **API Security Demos** → overexposure & MCP/agent risks  
 
 ---
 
 ## 🌐 Connect
-- [💼 LinkedIn](https://www.linkedin.com/in/ali-ismail-35196615/) ·  
-- [✍️ Blog](https://aliismail.beehiiv.com/) ·  
-- [🐙 GitHub Projects](https://github.com/Ali-Ismail-1)  
-- [🚀 Website](https://ali-ismail.com/) ·  
+- [💼 LinkedIn](https://www.linkedin.com/in/ali-ismail-35196615/)
+- [✍️ Blog](https://aliismail.beehiiv.com/)  
+- [🚀 Website](https://ali-ismail.com/)
+- [🐦 Twitter](https://x.com/ali_f_ismail) 
 
 ---
 
