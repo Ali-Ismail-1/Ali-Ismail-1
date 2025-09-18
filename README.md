@@ -29,10 +29,11 @@ I bridge **backend engineering** (C#, Python, cloud infra) with **applied AI** (
 ---
 
 ## 🌐 Connect
-[💼 LinkedIn](https://www.linkedin.com/in/ali-ismail-35196615/) ·  
-[✍️ Blog](https://aliismail.beehiiv.com/) ·  
-[🐙 GitHub Projects](https://github.com/Ali-Ismail-1)  
-[🚀 Website](https://ali-ismail.com/) ·  
+- [💼 LinkedIn](https://www.linkedin.com/in/ali-ismail-35196615/) ·  
+- [✍️ Blog](https://aliismail.beehiiv.com/) ·  
+- [🐙 GitHub Projects](https://github.com/Ali-Ismail-1)  
+- [🚀 Website](https://ali-ismail.com/) ·  
+
 ---
 
 > 💡 *Fun fact:* I started in C# e-commerce systems, and now I’m obsessed with **applied AI orchestration** — making LLMs safe and useful in real businesses.
