@@ -1,44 +1,38 @@
 # 👋 Hi, I’m Ali!  
 
-I’m a **Senior Software Engineer** with 10+ years of experience building APIs, backend systems, and cloud infrastructure.  
-Currently diving deep into **Python, Next.js, and AI tooling** — while staying grounded in C#, system design, and software fundamentals.  
+I’m a **Senior Software Engineer** (10+ yrs) focused on **AI, automation, and system design**.  
+I bridge **backend engineering** (C#, Python, cloud infra) with **applied AI** (RAG, LangChain, LangGraph, LLMOps) to build systems that are **practical, safe, and scalable**.  
 
 ---
 
-## 🚀 What I’m Working On
-- 🌟 **Open Source Contributor** to [LangChain](https://github.com/langchain-ai/langchain)  
-- 🛠 Building side projects that apply **DSA & OOP** to real-world problems (e.g., [Pathfinder Game](#) | [Home Inventory Manager](#))  
-- ✍️ Writing about **technical relevance, system design, and soft skills for engineers** on my [blog](https://aliismail.beehiiv.com/)  
+## 🚀 Current Focus
+- 🤖 Building **RAG + LangGraph chatbots** with compliance guardrails  
+- 🛠 Prototyping **automation & orchestration tools** for SMBs and enterprises  
+- 🌟 Open-source contributions to [LangChain](https://github.com/langchain-ai/langchain) and AI tooling  
+- ✍️ Writing on **staying technically relevant** & **engineer → leader growth** at my [blog](https://aliismail.beehiiv.com/) 
 
 ---
 
-## 🧰 Tech Toolbox
-- **Languages & Frameworks**: Python, C#, JavaScript/TypeScript (Next.js, React), FastAPI  
-- **Data & Infra**: SQL, DynamoDB, Supabase, AWS, Docker, CI/CD pipelines  
-- **Specialties**: API design, automation, testing, cloud security, penetration testing (OWASP Top 10)  
-- **Exploring**: AI agents, LangChain, and practical machine learning integrations  
+## 🧰 Toolbox
+- **Languages**: Python · C# · TypeScript (Next.js, React)  
+- **AI/ML**: LangChain · LangGraph · Hugging Face · RAG · LLMOps  
+- **Infra**: AWS · Supabase · Docker · CI/CD · API Security  
+- **Strengths**: API design · orchestration · automation · compliance-safe AI  
 
 ---
 
-## 📌 Featured Projects
-- 🕹️ **Pathfinder Game**: maze solver using BFS/DFS with dynamic maze generation  
-- 📦 **Home Inventory Manager**: QR-based item tracker using Supabase + Airtable  
-- 📖 **DSA & OOP Playground**: open-source mini-implementations for learning  
-
----
-
-## 🎯 What Drives Me
-- Bridging the gap between **abstract concepts** and **practical engineering**  
-- Helping developers move from **overwhelm → clarity** through structured learning  
-- Staying **technically relevant** while growing **leadership & communication skills**  
+## 📌 Featured Work
+- 🛡️ **Compliance-Safe RAG Chatbot** → [repo](#) (FastAPI + LangChain + LangGraph + Ollama)  
+- ⚡ **Automation for SMBs** → CRM + workflow automations with Zapier/Make/Airtable  
+- 🔍 **API Security Research** → demos on overexposure & MCP/agent risks  
 
 ---
 
 ## 🌐 Connect
-- [💼 LinkedIn](https://www.linkedin.com/in/ali-ismail-35196615/)  
-- [✍️ Blog](https://aliismail.beehiiv.com/)  
-- [🐙 GitHub Projects](https://github.com/Ali-Ismail-1)  
-
+[💼 LinkedIn](https://www.linkedin.com/in/ali-ismail-35196615/) ·  
+[✍️ Blog](https://aliismail.beehiiv.com/) ·  
+[🐙 GitHub Projects](https://github.com/Ali-Ismail-1)  
+[🚀 Website](https://ali-ismail.com/) ·  
 ---
 
-> 💡 *Fun fact:* I started as a C# developer, but now I’m exploring the intersection of **AI, automation, and system design** and sharing what I learn along the way.  
+> 💡 *Fun fact:* I started in C# e-commerce systems, and now I’m obsessed with **applied AI orchestration** — making LLMs safe and useful in real businesses.
